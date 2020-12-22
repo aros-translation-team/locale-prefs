@@ -1,10 +1,10 @@
 ## version $VER: Locale.catalog 2.0 (16.12.2020)
 ## language türkçe
-## codeset 0
+## codeset 12
 ;
 ;
 MSG_CANT_OPEN_LIB
-%s V%ld aç¹lamad¹!\n
+%s V%ld açýlamadý!\n
 ; Can't open %s V%ld!\n
 ;
 MSG_CANT_LOCK_SCR
@@ -12,23 +12,23 @@ Genel ekran kilitlenemedi!
 ; Can't lock public screen!
 ;
 MSG_CANT_GET_DRI
-DrawInfo al¹namad¹!
+DrawInfo alýnamadý!
 ; Can't get DrawInfo!
 ;
 MSG_CANT_GET_VI
-VisualInfo al¹namad¹!
+VisualInfo alýnamadý!
 ; Can't get VisualInfo!
 ;
 MSG_CANT_CREATE_GADGET
-Araç tak¹mlar¹ oluºturulamad¹!
+Araç takýmlarý oluþturulamadý!
 ; Can't create gadgets!
 ;
 MSG_CANT_CREATE_MENUS
-Menüler oluºturulamad¹!
+Menüler oluþturulamadý!
 ; Can't create menus!
 ;
 MSG_CANT_CREATE_WIN
-Pencere oluºturulamad¹!
+Pencere oluþturulamadý!
 ; Can't create window!
 ;
 MSG_WINTITLE
@@ -44,11 +44,11 @@ O\0Aç...
 ; O\0Open...
 ;
 MSG_MEN_PROJECT_SAVEAS
-A\0Farkl¹ kaydet...
+A\0Farklý kaydet...
 ; A\0Save As...
 ;
 MSG_MEN_PROJECT_QUIT
-Q\0Ç¹k¹º
+Q\0Çýkýþ
 ; Q\0Quit
 ;
 MSG_MEN_EDIT
@@ -56,7 +56,7 @@ Düzen
 ; Edit
 ;
 MSG_MEN_EDIT_DEFAULT
-D\0Varsay¹lana Dön
+D\0Varsayýlana Dön
 ; D\0Reset to Defaults
 ;
 MSG_MEN_EDIT_LASTSAVED
@@ -72,7 +72,7 @@ Ayarlar
 ; Settings
 ;
 MSG_MEN_SETTINGS_CREATEICONS
-I\0Simge Oluºtur?
+I\0Simge Oluþtur?
 ; I\0Create Icons?
 ;
 MSG_ASL_OPEN_TITLE
@@ -136,11 +136,11 @@ Zaman Dilimi: %ld Saat, %ld Dakika UTC'den
 ; Time Zone: %ld Hours, %ld Minutes from UTC
 ;
 MSG_CHARACTER_SET
-Varsay¹lan karakter seti
+Varsayýlan karakter seti
 ; Default character set
 ;
 MSG_NOT_SPECIFIED
-Belirtilmemiº
+Belirtilmemiþ
 ; Not specified
 ;
 MSG_GMT_CLOCK
