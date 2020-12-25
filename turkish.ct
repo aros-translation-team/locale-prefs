@@ -1,10 +1,10 @@
 ## version $VER: Locale.catalog 2.0 (16.12.2020)
-## language tÃ¼rkÃ§e
+## language türkçe
 ## codeset 12
 ;
 ;
 MSG_CANT_OPEN_LIB
-%s V%ld aÃ§Ä±lamadÄ±!\n
+%s V%ld açýlamadý!\n
 ; Can't open %s V%ld!\n
 ;
 MSG_CANT_LOCK_SCR
@@ -12,23 +12,23 @@ Genel ekran kilitlenemedi!
 ; Can't lock public screen!
 ;
 MSG_CANT_GET_DRI
-DrawInfo alÄ±namadÄ±!
+DrawInfo alýnamadý!
 ; Can't get DrawInfo!
 ;
 MSG_CANT_GET_VI
-VisualInfo alÄ±namadÄ±!
+VisualInfo alýnamadý!
 ; Can't get VisualInfo!
 ;
 MSG_CANT_CREATE_GADGET
-AraÃ§ takÄ±mlarÄ± oluÅŸturulamadÄ±!
+Araç takýmlarý oluþturulamadý!
 ; Can't create gadgets!
 ;
 MSG_CANT_CREATE_MENUS
-MenÃ¼ler oluÅŸturulamadÄ±!
+Menüler oluþturulamadý!
 ; Can't create menus!
 ;
 MSG_CANT_CREATE_WIN
-Pencere oluÅŸturulamadÄ±!
+Pencere oluþturulamadý!
 ; Can't create window!
 ;
 MSG_WINTITLE
@@ -40,23 +40,23 @@ Proje
 ; Project
 ;
 MSG_MEN_PROJECT_OPEN
-O\0AÃ§...
+O\0Aç...
 ; O\0Open...
 ;
 MSG_MEN_PROJECT_SAVEAS
-A\0FarklÄ± kaydet...
+A\0Farklý kaydet...
 ; A\0Save As...
 ;
 MSG_MEN_PROJECT_QUIT
-Q\0Ã‡Ä±kÄ±ÅŸ
+Q\0Çýkýþ
 ; Q\0Quit
 ;
 MSG_MEN_EDIT
-DÃ¼zen
+Düzen
 ; Edit
 ;
 MSG_MEN_EDIT_DEFAULT
-D\0VarsayÄ±lana DÃ¶n
+D\0Varsayýlana Dön
 ; D\0Reset to Defaults
 ;
 MSG_MEN_EDIT_LASTSAVED
@@ -72,11 +72,11 @@ Ayarlar
 ; Settings
 ;
 MSG_MEN_SETTINGS_CREATEICONS
-I\0Simge OluÅŸtur?
+I\0Simge Oluþtur?
 ; I\0Create Icons?
 ;
 MSG_ASL_OPEN_TITLE
-Yerel Tercihleri YÃ¼kle
+Yerel Tercihleri Yükle
 ; Load Locale Preferences
 ;
 MSG_ASL_SAVE_TITLE
@@ -108,7 +108,7 @@ Kullan
 ; Use
 ;
 MSG_GAD_CANCEL
-VazgeÃ§
+Vazgeç
 ; Cancel
 ;
 MSG_GAD_TAB_LANGUAGE
@@ -116,7 +116,7 @@ Dil
 ; Language
 ;
 MSG_GAD_TAB_REGION
-BÃ¶lge
+Bölge
 ; Region
 ;
 MSG_GAD_TAB_TIMEZONE
@@ -136,14 +136,14 @@ Zaman Dilimi: %ld Saat, %ld Dakika UTC'den
 ; Time Zone: %ld Hours, %ld Minutes from UTC
 ;
 MSG_CHARACTER_SET
-VarsayÄ±lan karakter seti
+Varsayýlan karakter seti
 ; Default character set
 ;
 MSG_NOT_SPECIFIED
-BelirtilmemiÅŸ
+Belirtilmemiþ
 ; Not specified
 ;
 MSG_GMT_CLOCK
-DonanÄ±m saati UTC depolar
+Donaným saati UTC depolar
 ; Hardware clock stores UTC
 ;
