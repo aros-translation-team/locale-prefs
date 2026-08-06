@@ -1,4 +1,4 @@
-## version $VER: Locale.catalog 1.0 (04.03.2000)
+## version $VER: Locale.catalog 2.0 (06.08.2026)
 ## language svenska
 ## codeset 0
 ;
@@ -134,4 +134,16 @@ Tidszon: %ld timmar från UTC
 MSG_TIMEZONE_HOURSMINS
 Tidszon: %ld timmar, %ld minuter från UTC
 ; Time Zone: %ld Hours, %ld Minutes from UTC
+;
+MSG_CHARACTER_SET
+Förvald teckenuppsättning
+; Default character set
+;
+MSG_NOT_SPECIFIED
+Ej angiven
+; Not specified
+;
+MSG_GMT_CLOCK
+Hårdvaruklockan lagrar UTC
+; Hardware clock stores UTC
 ;

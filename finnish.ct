@@ -1,4 +1,4 @@
-## version $VER: Locale.catalog 1.0 (04.03.2000)
+## version $VER: Locale.catalog 2.0 (06.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -134,4 +134,16 @@ Aikavyöhyke: %ld tuntia UTC:sta
 MSG_TIMEZONE_HOURSMINS
 Aikavyöhyke: %ld tuntia, %ld minuuttia UTC:sta
 ; Time Zone: %ld Hours, %ld Minutes from UTC
+;
+MSG_CHARACTER_SET
+Oletusmerkistö
+; Default character set
+;
+MSG_NOT_SPECIFIED
+Ei määritetty
+; Not specified
+;
+MSG_GMT_CLOCK
+Laitteistokello on UTC-ajassa
+; Hardware clock stores UTC
 ;

@@ -1,4 +1,4 @@
-## version $VER: Locale.catalog 1.2 (26.12.2009)
+## version $VER: Locale.catalog 2.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -134,4 +134,16 @@ Vremenska Zona: %ld Sati od UTC
 MSG_TIMEZONE_HOURSMINS
 Vremenska Zona: %ld Sati, %ld Minuta od UTC
 ; Time Zone: %ld Hours, %ld Minutes from UTC
+;
+MSG_CHARACTER_SET
+Predlo¾eni skup znakova
+; Default character set
+;
+MSG_NOT_SPECIFIED
+Nije odreðeno
+; Not specified
+;
+MSG_GMT_CLOCK
+Hardverski sat pohranjuje UTC
+; Hardware clock stores UTC
 ;
