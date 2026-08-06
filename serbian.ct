@@ -1,0 +1,148 @@
+## version $VER: Locale.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_CANT_OPEN_LIB
+Ne mogu da otvorim %s V%ld!\n
+; Can't open %s V%ld!\n
+;
+MSG_CANT_LOCK_SCR
+Nije mogu†e zakljuŸati javni ekran!
+; Can't lock public screen!
+;
+MSG_CANT_GET_DRI
+Nije mogu†e dobiti DrawInfo!
+; Can't get DrawInfo!
+;
+MSG_CANT_GET_VI
+Nije mogu†e dobiti VisualInfo!
+; Can't get VisualInfo!
+;
+MSG_CANT_CREATE_GADGET
+Nije mogu†e napraviti ged§ete!
+; Can't create gadgets!
+;
+MSG_CANT_CREATE_MENUS
+Nije mogu†e napraviti menije!
+; Can't create menus!
+;
+MSG_CANT_CREATE_WIN
+Nije mogu†e napraviti prozor!
+; Can't create window!
+;
+MSG_WINTITLE
+Podeçavanja lokaliteta
+; Locale Preferences
+;
+MSG_MEN_PROJECT
+Projekat
+; Project
+;
+MSG_MEN_PROJECT_OPEN
+O\0Otvori...
+; O\0Open...
+;
+MSG_MEN_PROJECT_SAVEAS
+A\0Snimi kao...
+; A\0Save As...
+;
+MSG_MEN_PROJECT_QUIT
+Q\0IzaÐi
+; Q\0Quit
+;
+MSG_MEN_EDIT
+Uredi
+; Edit
+;
+MSG_MEN_EDIT_DEFAULT
+D\0Vrati na osnove
+; D\0Reset to Defaults
+;
+MSG_MEN_EDIT_LASTSAVED
+L\0Poslednje snimljeno
+; L\0Last Saved
+;
+MSG_MEN_EDIT_RESTORE
+R\0Vrati
+; R\0Restore
+;
+MSG_MEN_SETTINGS
+Podeçavanja
+; Settings
+;
+MSG_MEN_SETTINGS_CREATEICONS
+I\0Pravi ikone?
+; I\0Create Icons?
+;
+MSG_ASL_OPEN_TITLE
+UŸitaj podeçavanja lokaliteta
+; Load Locale Preferences
+;
+MSG_ASL_SAVE_TITLE
+Snimi podeçavanja lokaliteta
+; Save Locale Preferences
+;
+MSG_OK
+Ok
+; Ok
+;
+MSG_GAD_AVAIL_LANGUAGES
+Dostupni jezici
+; Available Languages
+;
+MSG_GAD_PREF_LANGUAGES
+¦eljeni jezici
+; Preferred Languages
+;
+MSG_GAD_CLEAR_LANGUAGES
+OŸisti jezike
+; Clear Languages
+;
+MSG_GAD_SAVE
+Snimi
+; Save
+;
+MSG_GAD_USE
+Koristi
+; Use
+;
+MSG_GAD_CANCEL
+Poniçti
+; Cancel
+;
+MSG_GAD_TAB_LANGUAGE
+Jezik
+; Language
+;
+MSG_GAD_TAB_REGION
+Region
+; Region
+;
+MSG_GAD_TAB_TIMEZONE
+Vremenska zona
+; Time Zone
+;
+MSG_TIMEZONE_1HOUR
+Vremenska zona: 1 sat od UTC
+; Time Zone: 1 Hour from UTC
+;
+MSG_TIMEZONE_HOURS
+Vremenska zona: %ld sati od UTC
+; Time Zone: %ld Hours from UTC
+;
+MSG_TIMEZONE_HOURSMINS
+Vremenska zona: %ld sati, %ld minuta od UTC
+; Time Zone: %ld Hours, %ld Minutes from UTC
+;
+MSG_CHARACTER_SET
+Podrazumevani skup znakova
+; Default character set
+;
+MSG_NOT_SPECIFIED
+Nije odreÐeno
+; Not specified
+;
+MSG_GMT_CLOCK
+Hardverski sat Ÿuva UTC
+; Hardware clock stores UTC
+;
